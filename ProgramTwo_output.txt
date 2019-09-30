@@ -1,0 +1,60 @@
+Please enter the code   66
+Code: 66                Type: Upper Case                ASCII Char: B
+
+Please enter the code   114
+Code: 114               Type: Lower Case                ASCII Char: r
+
+Please enter the code   117
+Code: 117               Type: Lower Case                ASCII Char: u
+
+Please enter the code   99
+Code: 99                Type: Lower Case                ASCII Char: c
+
+Please enter the code   101
+Code: 101               Type: Lower Case                ASCII Char: e
+
+Please enter the code   32
+Code: 32                Type: White Space               ASCII Char:
+
+Please enter the code   83
+Code: 83                Type: Upper Case                ASCII Char: S
+
+Please enter the code   97
+Code: 97                Type: Lower Case                ASCII Char: a
+
+Please enter the code   121
+Code: 121               Type: Lower Case                ASCII Char: y
+
+Please enter the code   115
+Code: 115               Type: Lower Case                ASCII Char: s
+
+Please enter the code   32
+Code: 32                Type: White Space               ASCII Char:
+
+Please enter the code   72
+Code: 72                Type: Upper Case                ASCII Char: H
+
+Please enter the code   105
+Code: 105               Type: Lower Case                ASCII Char: i
+
+Please enter the code   33
+Code: 33                Type: Special Character         ASCII Char: !
+
+Please enter the code   7
+Code: 7         Type: White Space               ASCII Char:
+
+Please enter the code   9
+Code: 9         Type: White Space               ASCII Char:
+
+Please enter the code   50
+Code: 50                Type: Digit             ASCII Char: 2
+
+Please enter the code   48
+Code: 48                Type: Digit             ASCII Char: 0
+
+Please enter the code   49
+Code: 49                Type: Digit             ASCII Char: 1
+
+Please enter the code   57
+Code: 57                Type: Digit             ASCII Char: 9
+

@@ -1,0 +1,146 @@
+Enter the radix value10
+
+Enter the operand value4
+
+Enter the value in decimal
+-6
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b0110                  0b1111                  0b0000
+Octal(abs)                      06                      017                     0
+Decimal(abs)                    6                       15                      0
+Hexadecimal(abs)                        0x6                     0xF                     0x0
+Signed One's complement                 0b1001          0b0111                  0b1000
+Signed Two's complement                 0b1010          0b0111                  0b1001
+Sign-Magnitude                  0b1110                  0b0111                  0b1111
+-------------------------------------------------------------------------------------------------
+Enter the radix value9
+Invalid input
+-------------------------------------------------------------------------------------------------
+Enter the radix value10
+
+Enter the operand value5
+Invalid input
+-------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value4
+
+Enter the value in decimal
+-9
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b1001                  0b1111                  0b0000
+Octal(abs)                      011                     017                     0
+Decimal(abs)                    9                       15                      0
+Hexadecimal(abs)                        0x9                     0xF                     0x0
+Signed One's complement         Error                   0b0111                  0b1000
+Signed Two's complement                 Error                   0b0111                  0b1001
+Sign-Magnitude                  Error                   0b0111                  0b1111
+-------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value8
+
+Enter the value in decimal
+237
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b11101101                      0b11111111                      0b00000000
+Octal(abs)                      0355                    0377                    0
+Decimal(abs)                    237                     255                     0
+Hexadecimal(abs)                        0xED                    0xFF                    0x00
+Signed One's complement         Error                   0b01111111                      0b10000000
+Signed Two's complement         Error                   0b01111111                      0b10000001
+Sign-Magnitude                  Error                   0b01111111                      0b11111111
+------------------------------------------------------------------------------------------------------
+
+Enter the radix value8
+
+Enter the operand value8
+
+Enter the value in octal354
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                   0b11101100          0b11111111                  0b00000000
+Octal(abs)                     0354                 0377                         0000
+Decimal(abs)                   236                  255                          0
+Hexadecimal(abs)               0xEC                0xFF                         0x00
+Signed One∆s Complement       Error               0b01111111                  0b10000000
+Signed Two's Complement       Error               0b01111111                  0b10000001
+Sign-Magnitude                Error               0b01111111                  0b11111111
+---------------------------------------------------------------------------------------------------------
+
+Enter the radix value16
+
+Enter the operand value8
+
+Enter the value in hex
+EB
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                    0b11101011               0b11111111                  0b00000000
+Octal(abs)                     0353                 0377                         0000
+Decimal(abs)                   235                  255                          0
+Hexadecimal(abs)               0xEB                0xFF                         0x00
+Signed One∆s Complement        Error              0b01111111                  0b10000000
+Signed Two's Complement        Error              0b01111111                   0b10000001
+Sign-Magnitude                 Error              0b01111111                   0b11111111
+-----------------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value8
+
+Enter the value in decimal
+-125
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b01111101                      0b11111111                      0b00000000
+Octal(abs)                      0175                    0377                    0
+Decimal(abs)                    125                     255                     0
+Hexadecimal(abs)                        0x7D                    0xFF                    0x00
+Signed One's complement                 0b10000010              0b01111111                      0b10000000
+Signed Two's complement                 0b10000011              0b01111111                      0b10000001
+Sign-Magnitude                  0b11111101                      0b01111111                      0b11111111
+--------------------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value8
+
+Enter the value in decimal
+65400
+The value is out of bounds
+---------------------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value16
+
+Enter the value in decimal
+65400
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b1111111101111000                      0b1111111111111111                      0b0000000000000000
+Octal(abs)                      0177570                 0177777                 0
+Decimal(abs)                    65400                   65535                   0
+Hexadecimal(abs)                        0xFF78                  0xFFFF                  0x0000
+Signed One's complement         Error                   0b0111111111111111                      0b1000000000000000
+Signed Two's complement         Error                   0b0111111111111111                      0b1000000000000001
+Sign-Magnitude                  Error                   0b0111111111111111                      0b1111111111111111
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Enter the radix value10
+
+Enter the operand value16
+
+Enter the value in decimal
+-32701
+Output:                        Value              Maximum                     Minimum
+Binary(abs)                     0b0111111110111101                      0b1111111111111111                      0b0000000000000000
+Octal(abs)                      077675                  0177777                 0
+Decimal(abs)                    32701                   65535                   0
+Hexadecimal(abs)                        0x7FBD                  0xFFFF                  0x0000
+Signed One's complement                 0b1000000001000010              0b0111111111111111                      0b1000000000000000
+Signed Two's complement                 0b1000000001000011              0b0111111111111111                      0b1000000000000001
+Sign-Magnitude                  0b1111111110111101                      0b0111111111111111                      0b1111111111111111
+
+
+
