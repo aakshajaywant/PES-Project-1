@@ -1,0 +1,23 @@
+Input hexadecimal value is : 0xCAFE
+Value of the last 4 bits 14
+TRUE, 3 of the last 4 bits are true
+Last 4 digits are: 1110
+FECA
+Value of the last 4 bits 10
+FALSE, 3 of the last 4 bits are 0
+Last 4 digits are: 1010
+The left rotated output is ECAF
+Value of the last 4 bits 15
+FALSE, 3 of the last 4 bits are 0
+Last 4 digits are: 1111
+The right rotated output is AFEC
+Value of the last 4 bits 12
+FALSE, 3 of the last 4 bits are 0
+Last 4 digits are: 1100
+Process returned 0 (0x0)   execution time : 0.562 s
+Press any key to continue.
+
+
+
+
+
